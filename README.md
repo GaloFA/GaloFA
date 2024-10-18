@@ -22,11 +22,11 @@ hi
 
 ### 📊 Stats
 
-![GaloFA's GitHub stats](https://github-readme-stats.vercel.app/api?username=darthpedroo&show_icons=true&theme=gruvbox)
+![GaloFA's GitHub stats](https://github-readme-stats.vercel.app/api?username=goga&show_icons=true&theme=gruvbox)
 
 #
 
-![GitHub Streak](https://streak-stats.demolab.com?user=GaloFA&theme=gruvbox&border_radius=4.5)
+![GitHub Streak](https://streak-stats.demolab.com?user=goga&theme=gruvbox&border_radius=4.5)
 
 #
 
