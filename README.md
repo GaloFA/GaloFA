@@ -22,7 +22,7 @@ hi
 
 ### 📊 Stats
 
-![GaloFA's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaloFA&show_icons=true&theme=gruvbox)
+![GaloFA's GitHub stats](https://github-readme-stats.vercel.app/api?username=darthpedroo&show_icons=true&theme=gruvbox)
 
 #
 
