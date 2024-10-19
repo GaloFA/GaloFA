@@ -1,4 +1,4 @@
-# 🐗 GaloFA
+# 🐵 GaloFA 🐵
 
 
 **`Aspiring Developer`**
