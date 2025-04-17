@@ -25,6 +25,8 @@ Hello!!!!
 </div>
 <br />
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GaloFA)](https://github.com/GaloFA/github-readme-stats)
+
 #
 
 ### 📊 Stats
