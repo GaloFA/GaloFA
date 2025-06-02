@@ -4,8 +4,7 @@
 **`Aspiring Developer`**
 #
 
-Hello!!!!
-
+Hi! I'm Galo
 ### 🧰 Languages and Tools
 
 <div align="center"> 
