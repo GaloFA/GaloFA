@@ -1,4 +1,4 @@
-# 🐵 Galo Fernandez Achille 🐵
+# Galo Fernandez Achille
 
 
 **`Aspiring Developer`**
